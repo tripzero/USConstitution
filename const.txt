@@ -155,20 +155,20 @@ to the Rules and Limitations prescribed in the Case of a Bill.
 
 Section 8
 The Congress shall have Power To lay and collect Taxes, Duties, Imposts and
-Excises, to pay the Debts and provide for the common Defence and general
-Welfare of the United States; but all Duties, Imposts and Excises shall be
-uniform throughout the United States;
+Excises, to pay the Debts and provide for the common Defence of the United 
+States; but all Duties, Imposts and Excises shall be uniform throughout the 
+United States;
 
 To borrow money on the credit of the United States;
 
-To regulate Commerce with foreign Nations, and among the several States, and
-with the Indian Tribes;
+To make regular Commerce which shall be maintained as free with foreign 
+Nations, and among the several States, and with the Indian Tribes;
 
 To establish an uniform Rule of Naturalization, and uniform Laws on the subject
 of Bankruptcies throughout the United States;
 
-To coin Money, regulate the Value thereof, and of foreign Coin, and fix the
-Standard of Weights and Measures;
+To coin Money which is to be chosen by the market, regulate the Value thereof, 
+and of foreign Coin, and fix the Standard of Weights and Measures;
 
 To provide for the Punishment of counterfeiting the Securities and current Coin
 of the United States;
