@@ -161,13 +161,14 @@ United States;
 
 To borrow money on the credit of the United States;
 
-To make Commerce uniformly free with foreign Nations, and among the several States, 
-and with the Indian Tribes;
+To make Commerce uniformly free among the several States, and with the Indian Tribes;
+
+To regulate Commerce with foreign nations;
 
 To establish an uniform Rule of Naturalization, and uniform Laws on the subject
 of Bankruptcies throughout the United States;
 
-To coin Money which is to be chosen by the market, regulate the Value thereof, 
+To coin Money, which is gold or silver, regulate the Value thereof, 
 and of foreign Coin, and fix the Standard of Weights and Measures;
 
 To provide for the Punishment of counterfeiting the Securities and current Coin
@@ -226,8 +227,7 @@ in Cases of Rebellion or Invasion the public Safety may require it.
 
 No Bill of Attainder or ex post facto Law shall be passed.
 
-No capitation, or other direct, Tax shall be laid, unless in Proportion to the
-Census or Enumeration herein before directed to be taken.
+No capitation, or other direct, Tax shall be laid.
 
 No Tax or Duty shall be laid on Articles exported from any State.
 
